@@ -1,3 +1,5 @@
+# About Me
+
 ## Education
 
 ---
@@ -16,6 +18,11 @@ Courses:
 
 ### Veermata Jijabai Technological Institute, Mumbai
 **B.Tech in Computer Engineering**
+
+Courses:
+1. Data Structures and Algorithms
+2. Image Processing
+3. Real-time systems
 
 ## Professional Experience
 
