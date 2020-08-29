@@ -10,11 +10,14 @@
 
 Courses:
 1. Advanced Machine Learning
-2. Deep Learning
-3. Advanced Natural Language Processing
-4. Probabilistic Graphical Models
-5. Algorithms for Data Science
-6. Data Science Independent Study
+2. Reinforcement Learning
+3. Convolutional Neural Networks for Visual Recognition 
+4. Advanced Natural Language Processing
+5. Probabilistic Graphical Models
+6. Algorithms for Data Science
+7. Independent Study (Amazon Alexa)
+8. Information Retrieval
+9. Systems for Data Science
 
 ### Veermata Jijabai Technological Institute, Mumbai
 **B.Tech in Computer Engineering**
@@ -60,7 +63,7 @@ Courses:
 
 1. Developed an alternate tab manager for the open-source Chrome browser and tested its usability.
 
-## Projects
+## Research 
 
 ---
 
@@ -68,15 +71,32 @@ Courses:
 
 Assessed the performance of word embeddings (GLoVe, fastText) in the utterance encoder of a dialogue system. Incorporated an external Knowledge Graph by using ConceptNet embeddings to improve zero-shot generalization.
 
-#### 2. Semantic Segmentation with Deep Convolutional Networks using ASPP module
+#### 2. A Survey on Conversational AI in Task-oriented and Question-Answering Tasks
+
+Investigated the evolution of dialogue systems from hand-crafted rules and statistical approaches to recent end-to-end data-driven neural methods.
+
+#### 3. Semantic Segmentation with Deep Convolutional Networks using ASPP module
 
 Designed a PyTorch model for the Semantic Segmentation task, using Atrous Spatial Pyramid Pooling module (DeepLabV3). Trained the model on GCloud using the MS-COCO dataset.
 
-#### 3. Hierarchical feature learning in neural networks by patch training
+#### 4. Hierarchical feature learning in neural networks by patch training
 
 Improved the image classiﬁcation recall rate of a Convolutional Neural Network (CNN), by training on image sub-samples of the PascalVOC dataset.
+
+## Projects
+
+1. Chat assistant with smart reply generation and dialect translation
+
+2. [Chrome extention to annotate difficult words with their definition](https://github.com/sanchitnevgi/voracious)
+
+3. [CLI tool to compare npm package metrics](https://github.com/sanchitnevgi/npm-compare)
+
+4. [Task-management Progressive Web App](https://github.com/sanchitnevgi/remember)
+
+5. [UI Framework to layout elements in a Pinterest-like grid](https://github.com/sanchitnevgi/react-mason)
 
 ## Awards
 
 1. Samsung Citizen Award (Jan '17 - Mar '17)
-2. Employee of the Month (Dec' 16)
+2. Samsung Employee of the Month (Dec' 16)
+3. Annual Hackathon Winner at Ola for the ’Highest Business Potential’ idea
